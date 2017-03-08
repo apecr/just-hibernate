@@ -16,7 +16,6 @@
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-entitymanager</artifactId>
             <version>4.2.3.Final</version>
-            
         </dependency>
         <dependency>
             <groupId>mysql</groupId>
